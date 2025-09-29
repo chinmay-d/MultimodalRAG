@@ -1,0 +1,10 @@
+# Ignore .python-version files anywhere in the repo
+.python-version
+
+#Ignore all .env files
+.env
+
+# All pycache
+api/__pycache__
+api/**/__pycache__
+
