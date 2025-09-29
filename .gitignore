@@ -5,7 +5,8 @@
 .env
 
 # All pycache
-__pycache__
+*.pyc
+__pycache__/
 **/__pycache__
 api/__pycache__
 api/**/__pycache__
