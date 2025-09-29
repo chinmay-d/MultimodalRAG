@@ -5,7 +5,9 @@ The backend is built with FastAPI and communicates over WebSockets, while the in
 
 ## 🎥 Demo
 
-![MultimodalRAG Demo](.assets/MultimodalRAG.gif)
+<p align="center">
+  <img src=".assets/MultimodalRAG.gif" alt="MultimodalRAG Demo" />
+</p>
 
 ## ✨ Features
 - **Multi-Modal Ingestion**: Parses PDFs to extract and understand paragraphs, tables, and figures.  
