@@ -6,7 +6,7 @@ The backend is built with FastAPI and communicates over WebSockets, while the in
 ## 🎥 Demo
 
 <p align="center">
-  <img src=".assets/MultimodalRAG.gif" alt="MultimodalRAG Demo" />
+  <img src=".assets/MultimodalRAG.gif" alt="MultimodalRAG Demo"  width="800"/>
 </p>
 
 ## ✨ Features
