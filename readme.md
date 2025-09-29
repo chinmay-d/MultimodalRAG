@@ -3,11 +3,15 @@ MultimodalRAG is an advanced Retrieval-Augmented Generation (RAG) system capable
 
 The backend is built with FastAPI and communicates over WebSockets, while the interactive user interface is created with Streamlit. Vector storage and search are powered by Qdrant.
 
+---
+
 ## 🎥 Demo
 
 <p align="center">
   <img src=".assets/MultimodalRAG.gif" alt="MultimodalRAG Demo"  width="800"/>
 </p>
+
+---
 
 ## ✨ Features
 - **Multi-Modal Ingestion**: Parses PDFs to extract and understand paragraphs, tables, and figures.  
@@ -76,6 +80,7 @@ export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
 export DATA_DIR="./data"
 ```
 
+---
 
 ## 🚀 Usage
 The application requires a two step process: first ingest the data, then run the apps.
